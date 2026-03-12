@@ -46,11 +46,11 @@
   <h2>How to Use</h2>
 
   <ol>
-    <li>Open the project link: <a href="https://aarav12e.github.io/Mind_Sprint_Project1/" target="_blank">https://aarav12e.github.io/Mind_Sprint_Project1/</a></li>
+    <li>Open the project link: https://aarav12e.github.io/Ugly_Fresh_Website/</li>
     <li>Login using:
       <ul>
-        <li>Username: user</li>
-        <li>Password: 1234</li>
+        <li>Username: admin</li>
+        <li>Password: admin</li>
       </ul>
     </li>
     <li>Browse products and add them to the cart.</li>
