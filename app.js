@@ -31,7 +31,13 @@ const products = [
   {id:30,name:"Cherry",category:"fruits",price:150,description:"Cherry is a small, juicy fruit loved for its sweet-tart flavor and bright, vibrant color.",image:"./res/Fruits/cherry.jpg"},
   {id:31,name:"Kiwi",category:"fruits",price:300,description:"Kiwi is a tangy, nutrient-rich fruit known for its vibrant green flesh and refreshing flavor.",image:"./res/Fruits/kiwi.jpg"},
   {id:32,name:"Aloe Vera",category:"herbs",price:100,description:"Aloe vera is a soothing, succulent plant valued for its healing gel and skin-nourishing benefits.",image:"./res/Herbs/aloevera.jpg"},
+  {id:33,name:"Pineapple 🍍",category:"fruits",price:120,description:"A tropical fruit with a sweet and tangy taste, rich in vitamins and refreshing in summer.",image:"./res/Fruits/pineapple.png"},
+  {id:34,name:"Mango 🥭",category:"fruits",price:150,description:"The king of fruits, juicy and sweet with a rich tropical flavor loved by everyone.",image:"./res/Fruits/mango.png"},
+  {id:35,name:"Spinach 🥬",category:"vegetables",price:60,description:"A leafy green vegetable packed with iron, vitamins, and great for healthy meals.",image:"./res/Vegetables/spinach.png"},
+  {id:36,name:"Beetroot ❤️",category:"vegetables",price:80,description:"A root vegetable known for its deep red color and health benefits, great for salads and juices.",image:"./res/Vegetables/beetroot.png"},
+  {id:37,name:"Guava 🍈",category:"fruits",price:90,description:"A tropical fruit rich in vitamin C with a unique sweet and slightly tangy flavor.",image:"./res/Fruits/guava.png"}
 ];
+
 
 // ------------------- Cart Helpers -------------------
 function getCart() { return JSON.parse(localStorage.getItem("cart")) || []; }
